@@ -1,0 +1,46 @@
+.form{
+    border: 2px solid #012c01;
+    box-shadow: 2px 3px 3em ;
+    position: absolute;
+    top: 30%;
+    left: 43%;
+    padding: 2em;    
+}
+
+.calc{
+    display: flex;
+    align-items: center;
+    text-align: center;
+    border-radius: 10px;
+    border: 2px solid #000000;
+}
+
+button{
+    background: inherit;
+    font-family: cursive;
+    border-radius: 10px;
+    border: 2px solid #000000;
+    width: 3em;
+    height: 3em;
+}
+
+input{
+    background: inherit;
+    font-family: cursive;
+}
+
+
+::placeholder{
+    color: inherit;
+}
+
+body{
+    background: #bdc3c7; 
+    background: -webkit-linear-gradient(to right, #2c3e50, #bdc3c7); 
+    background: linear-gradient(to right, #2c3e50, #bdc3c7); 
+    font-family: cursive;
+}
+
+.welcome{
+    text-align: center;
+}
