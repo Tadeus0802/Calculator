@@ -1,9 +1,9 @@
 form{
     border: 2px solid #012c01;
     box-shadow: 20px 2px 5em 5px ;
-    left: 42%; 
-    position: absolute;
+    left: 42%;
     padding: 2em; 
+    position: absolute;
     max-width: 100%;
     min-width: 250px;   
 }
@@ -28,6 +28,12 @@ button{
 input{
     background: inherit;
     font-family: cursive;
+}
+
+p{
+    font-size: 50px;
+    padding: 0px;
+    margin: 0 auto;
 }
 
 
