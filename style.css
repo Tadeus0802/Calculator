@@ -1,10 +1,12 @@
-.form{
+form{
     border: 2px solid #012c01;
-    box-shadow: 2px 3px 3em ;
+    box-shadow: 20px 2px 5em 5px ;
     position: absolute;
     top: 30%;
-    left: 43%;
-    padding: 2em;    
+    left: 42%;
+    padding: 2em; 
+    max-width: 100%;
+    min-width: 250px;   
 }
 
 .calc{
